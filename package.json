@@ -1,0 +1,9 @@
+{
+  "name": "node-generic-pool-jdbc",
+  "version": "0.0.1",
+  "description": "generic pool and jdbc",
+  "dependencies": {
+    "jdbc": "*",
+    "generic-pool":"*"
+  }
+}

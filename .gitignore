@@ -1,0 +1,5 @@
+*\#*
+*.bmk
+*.log
+node_modules
+mydb.*
